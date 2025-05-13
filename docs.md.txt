@@ -1,4 +1,4 @@
 This document describes how to use the Pavel robotic toothbrush.
 
-Note that this toothbrush is only safe to use for adults!
+Note that this toothbrush is only safe to use for adults over 15!
 
