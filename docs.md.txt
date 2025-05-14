@@ -1,5 +1,8 @@
 This document describes how to use the Pavel automated Toothbrush!!
 
-Note that this toothbrush is only safe to use for adults over 15! CHANGES AGAIN
+Note that this toothbrush is CHANGE in NOTEPAD only safe to use for adults over 15!
 
-This is Exercise 12 - MERGE WITH CONFLICT CHANGES AGAIN
+This is Exercise 12 - MERGE WITH CONFLICT
+
+Note that this toothbrush is only safe to use for adults over 15! 
+
